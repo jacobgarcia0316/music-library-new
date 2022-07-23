@@ -9,7 +9,7 @@
     "react": "^0.0.0-experimental-49f8254d6-20220722",
     "react-dom": "^0.0.0-experimental-49f8254d6-20220722",
     "react-router-dom": "^6.3.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^2.1.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
